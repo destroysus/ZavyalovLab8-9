@@ -1,0 +1,29 @@
+2021-12-23 00:46:57,059 - Logger - INFO - Program started
+2021-12-23 00:47:14,297 - Logger - INFO - Added coordinates (4; 1) and (5; 8) and chosen f ferz
+2021-12-23 00:47:14,298 - Logger - INFO - output: Оба поля чёрного цвета
+2021-12-23 00:47:14,299 - Logger - INFO - output: Ферзь не представляет угрозы полю (5; 8)
+Чтобы за два хода попасть в это поле встаньте на поле (5; 1)
+2021-12-23 00:47:20,301 - Logger - INFO - Program started
+2021-12-23 00:47:24,024 - Logger - ERROR - Incorrect value. Incorrect input. Try again. 
+2021-12-23 00:47:24,025 - Logger - INFO - Program started
+2021-12-23 00:47:29,327 - Logger - ERROR - Incorrect data has been entered (Out of range). Try again.
+2021-12-23 00:47:29,328 - Logger - INFO - Program started
+2021-12-23 00:47:30,009 - Logger - ERROR - Incorrect value. Incorrect input. Try again. 
+2021-12-23 00:47:30,010 - Logger - INFO - Program started
+2021-12-23 00:47:42,027 - Logger - INFO - Added coordinates (4; 6) and (2; 5) and chosen f bishop
+2021-12-23 00:47:42,028 - Logger - INFO - output: Поля разных цветов
+2021-12-23 00:47:42,028 - Logger - INFO - Слон не представляет угрозы полю (2; 5)
+2021-12-23 00:47:42,029 - Logger - INFO - Слон никаким образом не угрожает полю (2; 5)
+2021-12-23 00:47:45,628 - Logger - INFO - Program started
+2021-12-23 00:47:55,106 - Logger - INFO - Added coordinates (4; 3) and (6; 5) and chosen f bishop
+2021-12-23 00:47:55,106 - Logger - INFO - output: Оба поля чёрного цвета
+2021-12-23 00:47:55,107 - Logger - INFO - Слон угрожает полю (6; 5)
+2021-12-23 00:47:57,967 - Logger - INFO - Program started
+2021-12-23 00:48:04,545 - Logger - ERROR - Incorrect data has been entered (Out of range). Try again.
+2021-12-23 00:48:04,545 - Logger - INFO - Program started
+2021-12-23 00:48:06,725 - Logger - ERROR - Incorrect data has been entered (Out of range). Try again.
+2021-12-23 00:48:06,725 - Logger - INFO - Program started
+2021-12-23 00:48:38,907 - Logger - INFO - Added coordinates (6; 6) and (2; 4) and chosen f bishop
+2021-12-23 00:48:38,908 - Logger - INFO - output: Оба поля белого цвета
+2021-12-23 00:48:38,908 - Logger - INFO - Слон не представляет угрозы полю (2; 4)
+2021-12-23 00:48:38,909 - Logger - INFO - Чтобы за два хода попасть в это поле необходимо встать на поле (3; 3)
